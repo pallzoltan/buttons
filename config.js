@@ -1,0 +1,7 @@
+{
+	"buttons": [
+		"Apple",
+		"Google",
+		"Yahoo"
+	]
+}
