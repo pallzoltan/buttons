@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (4.3.0)
+  - HexColors (5.0.0)
+  - Localize-Swift (1.7.1)
+  - SnapKit (3.1.2)
+  - SwiftLint (0.16.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.3)
+  - HexColors (~> 5.0)
+  - Localize-Swift (~> 1.7)
+  - SnapKit (~> 3.1)
+  - SwiftLint (~> 0.16)
+
+SPEC CHECKSUMS:
+  Alamofire: 856a113053a7bc9cbe5d6367a555d773fc5cfef7
+  HexColors: db19c76b0a9e0bcac25b483d316f303242dae6d4
+  Localize-Swift: 6cabc1087c0e910e77bfa87c2ed3f65c80c0b2df
+  SnapKit: 12b24f569cb7c143acc9c22b9d91b23e7b1c84a2
+  SwiftLint: b8b683208cc09640898f16318a7a452274e91f61
+
+PODFILE CHECKSUM: 2c76baba4d038e5eba74fd1501ee4119aae32225
+
+COCOAPODS: 1.1.1

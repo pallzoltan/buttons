@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  Buttons
+
+  Created by Páll Zoltán on 07/02/2017.
+  Copyright © 2017 Páll Zoltán. All rights reserved.
+*/
+"Error" = "Error";
+"Couldn't load buttons configuration." = "Couldn't load buttons configuration.";
